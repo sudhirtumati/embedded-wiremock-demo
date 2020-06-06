@@ -1,0 +1,23 @@
+{
+  "id" : "48106bf5-8a7d-3cc1-9c4f-9a1d0172b05c",
+  "request" : {
+    "url" : "/rest/v2/all",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-success.txt-5yxMD.txt",
+    "headers" : {
+      "Content-Type" : "text/plain",
+      "Last-Modified" : "Mon, 15 May 2017 18:04:40 GMT",
+      "ETag" : "\"ae780585f49b94ce1444eb7d28906123\"",
+      "Accept-Ranges" : "bytes",
+      "Server" : "AmazonS3",
+      "X-Amz-Cf-Pop" : "SIN2-C1",
+      "X-Amz-Cf-Id" : "oafwhJKu6Jr01QHI1uxKD5VJCe5IxWzAesRJNcFkYc4zVAcXvd5LxQ==",
+      "Cache-Control" : "no-cache, no-store, must-revalidate",
+      "Date" : "Sat, 06 Jun 2020 12:01:10 GMT"
+    }
+  },
+  "uuid" : "48106bf5-8a7d-3cc1-9c4f-9a1d0172b05c"
+}
